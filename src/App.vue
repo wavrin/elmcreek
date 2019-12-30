@@ -7,7 +7,7 @@
       <section>
         <v-parallax src="../assets/hero.jpeg" height="600">
           <v-layout column align-center justify-center class="white--text">
-            <img src="@/assets/logo.png" alt="Elm Creek" height="200">
+            <img src="@/assets/logo.png" alt="Elm Creek" height="200" />
             <h1 class="white--text mb-2 display-1 text-xs-center">Elm Creek Technologies</h1>
           </v-layout>
         </v-parallax>
@@ -129,7 +129,7 @@
       <v-footer class="grey">
         <v-layout row wrap align-center>
           <v-flex xs12>
-            <div class="white--text ml-3">&#169; 2019 Elm Creek Technologies</div>
+            <div class="white--text ml-3">&#169; 2020 Elm Creek Technologies</div>
           </v-flex>
         </v-layout>
       </v-footer>
