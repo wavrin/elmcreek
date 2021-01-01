@@ -5,7 +5,7 @@
     </v-toolbar>
     <v-content>
       <section>
-        <v-parallax src="../assets/hero.jpeg" height="600">
+        <v-parallax src="../assets/hero.jpg" height="600">
           <v-layout column align-center justify-center class="white--text">
             <img src="@/assets/logo.png" alt="Elm Creek" height="200" />
             <h1 class="white--text mb-2 display-1 text-xs-center">Elm Creek Technologies</h1>
