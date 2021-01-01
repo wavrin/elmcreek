@@ -32,7 +32,7 @@
                     <v-card-title primary-title class="layout justify-center">
                       <div class="headline text-xs-center">Custom Development</div>
                     </v-card-title>
-                    <v-card-text>We are full-stack developers. We build custom software using trusted tools such as Ruby on Rails, Node, AWS, Vue.js, and Ember.js. We value transparency and efficiency.</v-card-text>
+                    <v-card-text>We are full-stack developers. We build custom software using trusted tools such as Ruby on Rails, Node, AWS, and Vue.js. We value transparency and efficiency.</v-card-text>
                   </v-card>
                 </v-flex>
                 <v-flex xs12 md4>
@@ -129,7 +129,7 @@
       <v-footer class="grey">
         <v-layout row wrap align-center>
           <v-flex xs12>
-            <div class="white--text ml-3">&#169; 2020 Elm Creek Technologies</div>
+            <div class="white--text ml-3">&#169; 2021 Elm Creek Technologies</div>
           </v-flex>
         </v-layout>
       </v-footer>
