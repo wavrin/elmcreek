@@ -129,7 +129,7 @@
       <v-footer class="grey">
         <v-layout row wrap align-center>
           <v-flex xs12>
-            <div class="white--text ml-3">&#169; 2021 Elm Creek Technologies</div>
+            <div class="white--text ml-3">&#169; 2023 Elm Creek Technologies</div>
           </v-flex>
         </v-layout>
       </v-footer>
